@@ -3,4 +3,8 @@ the two moons may be a problem for wolfman
 But the mummy will appreciate the lack of humidity
 And the wind is too strong for my friends 
 I'm happy I'm sharing
+<<<<<<< HEAD
 I'm DOCTOR THOMAS OLIVER JELLY and I'm sharing my evil thoughts
+=======
+I am Alex and I'm sharing my thoughts 
+>>>>>>> 1f84746ed93c9acca34210a4832cb9ce11fc60a5
